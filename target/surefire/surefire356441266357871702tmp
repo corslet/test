@@ -1,0 +1,7 @@
+#surefire
+#Thu Oct 30 23:00:21 CST 2014
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.0.1\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=D\:\\Program\\java\\myormwork
+localRepository=D\:\\\u7528\u6237\u76EE\u5F55\\.m2\\repository
+netbeans.deploy=true
+basedir=D\:\\Program\\java\\myormwork
